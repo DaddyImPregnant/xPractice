@@ -19,9 +19,12 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+**Information (please complete the following information):**
  - Server Version: [e.g. 1.7.10 paperspigot]
  - Plugin version [e.g. Beta 1.0]
 
 **Additional context**
 Add any other context about the problem here.
+
+**Video**
+Please provide a video if possible
